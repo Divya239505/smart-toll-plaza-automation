@@ -336,4 +336,3 @@ https://github.com/Divya239505/Smart-Toll-Plaza-Automation
 
 ---
 
-## ⭐ If you found this project useful, consider giving it a star.
